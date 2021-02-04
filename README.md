@@ -1,1 +1,3 @@
 # acceptation-universelle
+![](output.png)
+
