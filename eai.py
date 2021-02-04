@@ -85,11 +85,6 @@ def test(d):
 # 
 
 def main():
-    '''args = sys.argv[1:]
-    for i in range(0, len(args)):
-        print(test(str(args[i])))'''
-    #print(sys.argv[1:])
-    
     if(len(sys.argv[1])==0):
         print(test(str(sys.argv[1:])))
     else:
